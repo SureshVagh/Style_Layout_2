@@ -1,0 +1,131 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    height: 100%;
+    background-image: url(../images/img1.jpg);
+    background-size: cover;
+    background-position: center bottom;
+    position: relative;
+}
+
+.headercontainer {
+    height: 60%;
+    width: 50%;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+.title {
+    width: 22%;
+    margin: auto;
+    padding: 5px;
+    background-color: white;
+}
+
+.headercontent {
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: white;
+
+}
+
+.tagcontent {
+    width: 40%;
+    margin: auto;
+}
+
+.tag1 {
+    height: 50px;
+    width: 50%;
+    margin: auto;
+    float: left;
+    padding: 5px;
+    background-color: white;
+
+}
+
+.tag2 {
+    height: 50px;
+    width: 50%;
+    margin: auto;
+    float: left;
+    padding: 5px;
+    background-color: white;
+}
+
+.content {
+    height: 100%;
+    background-image: url(../images/img2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.contentcontainer {
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+.part-1 {
+    width: 50%;
+    height: 100%;
+    background-image: url(../images/img4.jpg);
+    float: left;
+    background-size: cover:;
+    background-position: center;
+}
+
+.part-2 {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: white;
+}
+
+.footer {
+    height: 100%;
+    background-image: url(../images/img3.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.footercontainer {
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+
+.part-3 {
+    width: 50%;
+    height: 100%;
+    background-image: url(../images/img5.jpg);
+    float: left;
+    background-size: cover:;
+    background-position: center;
+}
